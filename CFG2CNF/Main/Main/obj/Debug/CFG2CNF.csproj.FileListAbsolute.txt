@@ -1,0 +1,19 @@
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.Form1.resources
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.csproj.GenerateResource.Cache
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\bin\Debug\CFG2CNF.exe.config
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\bin\Debug\CFG2CNF.exe
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\bin\Debug\CFG2CNF.pdb
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.csprojResolveAssemblyReference.cache
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.Properties.Resources.resources
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.exe
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.pdb
+C:\Users\Ilcenco-PotatoPC\Desktop\cfg2cnf-master\Son\Son\bin\Debug\CFG2CNF.exe.config
+C:\Users\Ilcenco-PotatoPC\Desktop\cfg2cnf-master\Son\Son\bin\Debug\CFG2CNF.exe
+C:\Users\Ilcenco-PotatoPC\Desktop\cfg2cnf-master\Son\Son\bin\Debug\CFG2CNF.pdb
+C:\Users\Ilcenco-PotatoPC\Desktop\cfg2cnf-master\Son\Son\obj\Debug\CFG2CNF.csprojAssemblyReference.cache
+C:\Users\Ilcenco-PotatoPC\Desktop\cfg2cnf-master\Son\Son\obj\Debug\CFG2CNF.Form1.resources
+C:\Users\Ilcenco-PotatoPC\Desktop\cfg2cnf-master\Son\Son\obj\Debug\CFG2CNF.Properties.Resources.resources
+C:\Users\Ilcenco-PotatoPC\Desktop\cfg2cnf-master\Son\Son\obj\Debug\CFG2CNF.csproj.GenerateResource.cache
+C:\Users\Ilcenco-PotatoPC\Desktop\cfg2cnf-master\Son\Son\obj\Debug\CFG2CNF.csproj.CoreCompileInputs.cache
+C:\Users\Ilcenco-PotatoPC\Desktop\cfg2cnf-master\Son\Son\obj\Debug\CFG2CNF.exe
+C:\Users\Ilcenco-PotatoPC\Desktop\cfg2cnf-master\Son\Son\obj\Debug\CFG2CNF.pdb
